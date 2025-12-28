@@ -8,7 +8,21 @@ Effective Date: Decemberr 30, 2025
 
 The app uses Bluetooth, Wi-Fi (Nearby Devices), and Location Discovery technologies solely for secure offline sharing and synchronization of quiz data between teacher and student devices.
 
-“MakeUp Quiz” only requires a one-time in-app purchase in accessing the 'Teacher' features and functionalities and does not require an internet connection for its core features and contains no ads, no subscriptions, and no in-app purchases for 'Students'.
+“MakeUp Quiz” is a FREE application supported by advertisements. We may use third-party advertising providers, such as Google AdMob, to display ads within the app. These third-party partners may collect limited, non-personal data such as:
+
+    * Device information (e.g., model, operating system)
+    * General location (e.g., city-level)
+    * Advertising ID (used for ad personalization and analytics)
+
+These data are handled according to the respective third party’s privacy policies and are not stored or controlled by MakeUp Quiz.
+
+You can learn more about how Google manages data in advertising here:
+🔗 https://policies.google.com/technologies/ads
+
+You may choose to disable personalized advertising by adjusting your device settings:
+
+    * Settings → Google → Ads → Opt out of Ads Personalization
+ 
 
 2. Information We Collect
 
@@ -49,7 +63,7 @@ Internet connectivity is not required for creating, conducting, or evaluating qu
 7. Data Sharing and Third Parties
 
 * “MakeUp Quiz” does not share any data with third parties.
-* No data is collected for advertising, analytics, or marketing purposes.
+* No personal data is collected for advertising, analytics, or marketing purposes.
 * The app contains no third-party SDKs that collect user information.
 
 8. User Control
@@ -62,7 +76,7 @@ Users (teachers) fully control:
 
 9. Updates to This Policy
 
-We may update this Policy to reflect improvements or changes in app functionality. Any updates will be made available through the same page or app listing.
+We may update this policy to reflect improvements or changes in app functionality. Any updates will be made available through the same page or app listing: https://github.com/LpG151624/MakeUp-Quiz/blob/main/MakeUp%20Quiz%20Privacy%20and%20Policy
 
 10. Contact Information
 
