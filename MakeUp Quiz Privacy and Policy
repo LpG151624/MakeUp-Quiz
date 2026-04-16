@@ -1,12 +1,12 @@
 Privacy and Policy Statement for “MakeUp Quiz”
 
-Effective Date: Decemberr 30, 2025
+Effective Date: April 16, 2026
 
 1. Overview
 
 “MakeUp Quiz” is a no-subscription, offline, in-classroom quiz management application designed to promote honesty, integrity, and fairness during quizzes and tests. It enables teachers to create, manage, and administer paperless quizzes even in areas with limited or no internet connectivity.
 
-The app uses Bluetooth, Wi-Fi (Nearby Devices), and Location Discovery technologies solely for secure offline sharing and synchronization of quiz data between teacher and student devices.
+The app uses Bluetooth, Wi-Fi (Nearby Devices), and Location Discovery (Precise Location) technologies solely for secure offline sharing and synchronization of quiz data between teacher and student devices.
 
 “MakeUp Quiz” is a FREE application supported by advertisements. We may use third-party advertising providers, such as Google AdMob, to display ads within the app. These third-party partners may collect limited, non-personal data such as:
 
@@ -28,11 +28,16 @@ You may choose to disable personalized advertising by adjusting your device sett
 
 “MakeUp Quiz” is designed with privacy in mind. The app:
 
-* Does not collect, store, or transmit personal data such as names, emails, phone numbers, or addresses.
+* MakeUp Quiz collects, ephemerally store, or transmit personal data such as names, user ID, chosen user name, class section, only for the purposes of the following:
+     - Mobile app functionalities
+     - security
+     - mobile app's analytics and item analysis purposes
+     - for teacher or examiner's class records for evaluation purposes
+     - the user, however, can personally request the quiz master, teacher, or examiner to manually delete the information if they deemed to.
 * Does not require user registration or online account creation.
-* Uses device permissions (Bluetooth, Wi-Fi, and Location) only locally, to enable offline communication and nearby device discovery during quizzes.
+* Uses device permissions (Bluetooth, Wi-Fi, and Precise Location) only locally, to enable offline communication and nearby device discovery during quizzes.
 
-Any quiz data, results, and analytics are stored locally on the user’s device and remain under the control of the teacher or user.
+Any quiz data, results, and analytics are stored locally on the user’s device and remain under the control of the teacher or user and they are ephemeral.
 
 3. Permissions and Their Purpose
 
@@ -45,26 +50,26 @@ Storage / File Access (if applicable)	Enables export and saving of quiz results 
 
 4. Data Storage and Security
 
-* All quiz data, results, and related files are stored locally on the device.
-* The app does not use external servers or cloud services.
+* All quiz data, results, and related files are stored locally on the device ephemerally.
+* for the moment, the app does not use external servers or cloud services. But may consider the use of them in the future large scale funcitonalities.
 * Users may manually export quiz results to Excel for reporting purposes.
 
 We implement reasonable technical measures to maintain data security and protect against unauthorized access.
 
 5. Children’s Privacy
 
-“MakeUp Quiz” can be safely used by teachers and students in classroom environments. The app does not knowingly collect any personal information from children or students.
+“MakeUp Quiz” can be safely used by teachers and students in classroom environments. The app does not knowingly collect any personal or private information from children or students aside from the aforementioned and for the app's functionalities purposes only.
 
 6. Offline Use
 
 The core functionality of “MakeUp Quiz” operates completely offline.
-Internet connectivity is not required for creating, conducting, or evaluating quizzes.
+For now, internet connectivity is not required for creating, conducting, or evaluating quizzes. But my be used in the future for large functionality purposes alone.
 
 7. Data Sharing and Third Parties
 
-* “MakeUp Quiz” does not share any data with third parties.
-* No personal data is collected for advertising, analytics, or marketing purposes.
-* The app contains no third-party SDKs that collect user information.
+* “MakeUp Quiz” might share data with third parties for the advrtisements analytics and marketing offering purposes only.
+* No personal data is collected aside from the aforementioned, for advertising, analytics, or marketing purposes.
+* The app might contains third-party SDKs that collect user information, but for analytics, and marketing offers alone.
 
 8. User Control
 
